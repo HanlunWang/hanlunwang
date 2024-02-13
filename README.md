@@ -41,7 +41,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="https://tenor.com/2RUf.gif" alt="Coding gif" />
+ <img align="right" width="350" src="./public/images/it-crowd.gif" alt="Coding gif" />
   
  🧑‍💻 &emsp; I'm a Tech Enthusiast since childhood. <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
