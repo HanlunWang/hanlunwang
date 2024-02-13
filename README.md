@@ -79,9 +79,9 @@
 
 ## My projects
 [![hanlunwang](https://github-readme-stats.vercel.app/api/pin/?username=hanlunwang&repo=hanlunwang&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/HanlunWang/hanlunwang)
-[![PoE-Textract](https://github-readme-stats.vercel.app/api/pin/?username=Price-of-Empire-Main-Repository&repo=PoE-Textract&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/urfolio)
+[![PoE-Textract](https://github-readme-stats.vercel.app/api/pin/?username=Price-of-Empire-Main-Repository&repo=PoE-Textract&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Price-of-Empire-Main-Repository/PoE-Textract)
 [![Factors-Affecting-Movie-Grossing-and-Prediction](https://github-readme-stats.vercel.app/api/pin/?username=Sapphirine&repo=202212-9-Factors-Affecting-Movie-Grossing-and-Prediction&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Sapphirine/202212-9-Factors-Affecting-Movie-Grossing-and-Prediction)
-[![Foreign_Exchange](https://github-readme-stats.vercel.app/api/pin/?username=Sapphirine&repo=Foreign_Exchange&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam)
+[![Foreign_Exchange](https://github-readme-stats.vercel.app/api/pin/?username=Sapphirine&repo=Foreign_Exchange&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Sapphirine/Foreign_Exchange)
 
 <p align="left">
   <a href="https://github.com/HanlunWang?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
