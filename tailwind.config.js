@@ -12,7 +12,11 @@ module.exports = {
       desktop: "1280px",
       laptopl: "1440px",
     },
-    extend: {},
+    extend: {
+      fontFamily: {
+        "fira-code": ["Fira Code", "monospace"],
+      },
+    },
   },
   plugins: [],
 };
