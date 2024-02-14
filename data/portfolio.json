@@ -2,7 +2,7 @@
   "name": "hanlunwang.tech",
   "headerTaglineOne": "Hello 👋",
   "headerTaglineTwo": "I'm Hanlun Wang",
-  "headerTaglineThree": "🧑‍💻 Full-Stack Developer",
+  "headerTaglineThree": "🧑‍💻 A Full-Stack Developer",
   "headerTaglineFour": " based in Toronto, Canada 🇨🇦",
   "showCursor": false,
   "showBlog": false,
@@ -29,69 +29,136 @@
   "projects": [
     {
       "id": "1",
-      "title": "Project One Test",
+      "title": "React Portfolio Website",
       "description": "Web Design",
-      "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "imageSrc": "https://i.ibb.co/DgHCPtz/Portfolio1.gif",
+      "url": "https://github.com/HanlunWang/hanlunwang"
     },
     {
       "id": "2",
-      "title": "Project Two",
-      "description": "Web Development",
-      "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "title": "PoE-Textract",
+      "description": "Full-Stack Development",
+      "imageSrc": "https://i.ibb.co/XxhdyhH/uot-sc.png",
+      "url": "https://github.com/Price-of-Empire-Main-Repository/PoE-Textract"
     },
     {
       "id": "3",
-      "title": "Project Three",
-      "description": "Design",
-      "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "title": "Factors Affecting Movie Grossing and Prediction",
+      "description": "Big-Data Analysis and Full-Stack Development",
+      "imageSrc": "https://i.ibb.co/ZNZM8VW/web1.png",
+      "url": "https://github.com/Sapphirine/202212-9-Factors-Affecting-Movie-Grossing-and-Prediction"
     },
     {
       "id": "4",
-      "title": "Project Four",
-      "description": "Marketing",
-      "imageSrc": "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
-    },
-    {
-      "id": "5",
-      "title": "Project Five",
-      "description": "Development",
-      "imageSrc": "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
-    },
-    {
-      "id": "6",
-      "title": "Project Six",
-      "description": "Design & Development",
-      "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "title": "Investment Strategy -- AI Trader (Foreign Exchange)",
+      "description": "AI and Full-Stack Development",
+      "imageSrc": "https://i.ibb.co/NS7Xzkb/upload.png",
+      "url": "https://github.com/Sapphirine/Foreign_Exchange"
     }
   ],
-  "services": [
+  "skills": [
     {
-      "id": "1",
-      "title": "Art Direction",
-      "description": "We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."
+        "id": "1",
+        "title": "Javascript",
+        "imageSrc": "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
     },
     {
-      "id": "2",
-      "title": "Branding",
-      "description": "We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."
+        "id": "2",
+        "title": "Python",
+        "imageSrc": "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
     },
     {
-      "id": "3",
-      "title": "Web Design",
-      "description": "We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
+        "id": "3",
+        "title": "React",
+        "imageSrc": "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
     },
     {
-      "id": "4",
-      "title": "3D Design",
-      "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
+        "id": "4",
+        "title": "Next.js",
+        "imageSrc": "https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
+    },
+    {
+        "id": "5",
+        "title": "Nodejs",
+        "imageSrc": "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
+    },
+    {
+        "id": "6",
+        "title": "Express.js",
+        "imageSrc": "https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
+    },
+    {
+        "id": "7",
+        "title": "Flask",
+        "imageSrc": "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"
+    },
+    {
+        "id": "8",
+        "title": "MongoDB",
+        "imageSrc": "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
+    },
+    {
+        "id": "9",
+        "title": "PostgreSQL",
+        "imageSrc": "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
+    },
+    {
+        "id": "10",
+        "title": "Oracle",
+        "imageSrc": "https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"
+    },
+    {
+        "id": "11",
+        "title": "HTML",
+        "imageSrc": "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+    },
+    {
+        "id": "12",
+        "title": "CSS3",
+        "imageSrc": "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+    },
+    {
+        "id": "13",
+        "title": "Redux",
+        "imageSrc": "https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
+    },
+    {
+        "id": "14",
+        "title": "SASS Badge",
+        "imageSrc": "https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"
+    },
+    {
+        "id": "15",
+        "title": "Ant-Design",
+        "imageSrc": "https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white"
+    },
+    {
+        "id": "16",
+        "title": "Tailwind",
+        "imageSrc": "https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000"
+    },
+    {
+        "id": "17",
+        "title": "AWS",
+        "imageSrc": "https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"
+    },
+    {
+        "id": "18",
+        "title": "GCP",
+        "imageSrc": "https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"
+    },
+    {
+        "id": "19",
+        "title": "VSCode",
+        "imageSrc": "https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white"
+    },
+    {
+        "id": "20",
+        "title": "Git",
+        "imageSrc": "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
     }
-  ],
+]
+,
   "aboutpara": "I am a Toronto-based Full-Stack Web App Developer with a passion for technology, particularly in the realms of Data Science, Artificial Intelligence, and Machine Learning. My technical arsenal includes proficiency in languages such as Python, JavaScript, Java, SQL, C, and C++, and a deep understanding of frameworks and databases like React, Flask, Oracle, PostgreSQL, and MongoDB. I am adept at leveraging tools such as AWS, GCP, PyTorch, Spark, Airflow, Unix, Git, and Jira to build robust, scalable applications. My work is driven by a desire to integrate AI and ML technologies into web development, pushing the boundaries of traditional web applications to create more intelligent, efficient, and user-focused solutions.",
   "resume": {
     "tagline": "👋  I'm a full-stack web app developer.",
