@@ -58,107 +58,106 @@
   ],
   "skills": [
     {
-        "id": "1",
-        "title": "Javascript",
-        "imageSrc": "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
+      "id": "1",
+      "title": "Javascript",
+      "imageSrc": "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
     },
     {
-        "id": "2",
-        "title": "Python",
-        "imageSrc": "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+      "id": "2",
+      "title": "Python",
+      "imageSrc": "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
     },
     {
-        "id": "3",
-        "title": "React",
-        "imageSrc": "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+      "id": "3",
+      "title": "React",
+      "imageSrc": "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
     },
     {
-        "id": "4",
-        "title": "Next.js",
-        "imageSrc": "https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
+      "id": "4",
+      "title": "Next.js",
+      "imageSrc": "https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
     },
     {
-        "id": "5",
-        "title": "Nodejs",
-        "imageSrc": "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
+      "id": "5",
+      "title": "Nodejs",
+      "imageSrc": "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
     },
     {
-        "id": "6",
-        "title": "Express.js",
-        "imageSrc": "https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
+      "id": "6",
+      "title": "Express.js",
+      "imageSrc": "https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
     },
     {
-        "id": "7",
-        "title": "Flask",
-        "imageSrc": "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"
+      "id": "7",
+      "title": "Flask",
+      "imageSrc": "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"
     },
     {
-        "id": "8",
-        "title": "MongoDB",
-        "imageSrc": "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
+      "id": "8",
+      "title": "MongoDB",
+      "imageSrc": "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
     },
     {
-        "id": "9",
-        "title": "PostgreSQL",
-        "imageSrc": "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
+      "id": "9",
+      "title": "PostgreSQL",
+      "imageSrc": "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
     },
     {
-        "id": "10",
-        "title": "Oracle",
-        "imageSrc": "https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"
+      "id": "10",
+      "title": "Oracle",
+      "imageSrc": "https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"
     },
     {
-        "id": "11",
-        "title": "HTML",
-        "imageSrc": "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+      "id": "11",
+      "title": "HTML",
+      "imageSrc": "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
     },
     {
-        "id": "12",
-        "title": "CSS3",
-        "imageSrc": "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+      "id": "12",
+      "title": "CSS3",
+      "imageSrc": "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
     },
     {
-        "id": "13",
-        "title": "Redux",
-        "imageSrc": "https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
+      "id": "13",
+      "title": "Redux",
+      "imageSrc": "https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
     },
     {
-        "id": "14",
-        "title": "SASS Badge",
-        "imageSrc": "https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"
+      "id": "14",
+      "title": "SASS Badge",
+      "imageSrc": "https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"
     },
     {
-        "id": "15",
-        "title": "Ant-Design",
-        "imageSrc": "https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white"
+      "id": "15",
+      "title": "Ant-Design",
+      "imageSrc": "https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white"
     },
     {
-        "id": "16",
-        "title": "Tailwind",
-        "imageSrc": "https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000"
+      "id": "16",
+      "title": "Tailwind",
+      "imageSrc": "https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000"
     },
     {
-        "id": "17",
-        "title": "AWS",
-        "imageSrc": "https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"
+      "id": "17",
+      "title": "AWS",
+      "imageSrc": "https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"
     },
     {
-        "id": "18",
-        "title": "GCP",
-        "imageSrc": "https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"
+      "id": "18",
+      "title": "GCP",
+      "imageSrc": "https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"
     },
     {
-        "id": "19",
-        "title": "VSCode",
-        "imageSrc": "https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white"
+      "id": "19",
+      "title": "VSCode",
+      "imageSrc": "https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white"
     },
     {
-        "id": "20",
-        "title": "Git",
-        "imageSrc": "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
+      "id": "20",
+      "title": "Git",
+      "imageSrc": "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
     }
-]
-,
+  ],
   "aboutpara": "I am a Toronto-based Full-Stack Web App Developer with a passion for technology, particularly in the realms of Data Science, Artificial Intelligence, and Machine Learning. My technical arsenal includes proficiency in languages such as Python, JavaScript, Java, SQL, C, and C++, and a deep understanding of frameworks and databases like React, Flask, Oracle, PostgreSQL, and MongoDB. I am adept at leveraging tools such as AWS, GCP, PyTorch, Spark, Airflow, Unix, Git, and Jira to build robust, scalable applications. My work is driven by a desire to integrate AI and ML technologies into web development, pushing the boundaries of traditional web applications to create more intelligent, efficient, and user-focused solutions.",
   "resume": {
     "tagline": "👋  I'm a full-stack web app developer.",
@@ -166,10 +165,10 @@
     "experiences": [
       {
         "id": "1",
-        "dates": "Sep 2023 - Present",
+        "dates": "Sep 2023 - Dec 2023",
         "type": "Full Time",
         "position": "Full-Stack Developer at University of Toronto",
-        "bullets": "Led a multifaceted team of developers in an Agile workflow setting, utilized Jira for project management, and implemented Kanban techniques and Git for version control to drive efficient and timely delivery of distinct project modules.|Developed an AWS Textract-based web application which revolutionized university economic research by automating 90% of tabular data extraction from historical documents and translation tasks, reducing research preparation time by 50% and bolstering team productivity significantly.|Authored AWS Lambda functions in Python for comprehensive data extraction, including file uploads, previews, processing, and downloads. Leveraged AWS API Gateway to deploy Lambda functions as REST APIs and AWS Amplify for effective management and deployment of the serverless backend architecture.|Crafted an engaging and easy-to-use React front-end interface in HTML, CSS, and JavaScript, significantly simplifying document management tasks for the academic staff and enhancing their operational efficiency."
+        "bullets": "Spearheaded the redesign of app architecture from Monolithic to Serverless. Engineered and deployed the serverless app on AWS Amplify for easier authentication and automatic scaling, reducing operational costs by 30%. | Revamped Single Page Application using React, JavaScript, HTML, and Tailwind CSS in Next.js framework for server-side rendering, reducing page load times by 44%. | Applied caching strategies and lazy loading, reducing server load by 25% and enhancing user experience. | Improved processing speed and accuracy by 30% by utilizing AWS Lambda in Python and leveraging AWS S3 for scalable storage solutions. | Integrated AWS SQS and SNS for asynchronous data extraction, reducing waiting time by 60%. | Orchestrated cross-functional team collaboration by introducing Agile and Scrum methodologies and established CI/CD pipelines, resulting in a 20% acceleration in product iteration cycle."
       },
       {
         "id": "2",
@@ -203,8 +202,34 @@
         "universityPara": "Bachelor of Science in Physics and Computer Science"
       }
     ],
-    "languages": ["Python", "JavaScript", "Java", "SQL", "C", "C++", "HTML", "CSS", "TypeScript"],
-    "frameworks": ["React", "Flask", "NodeJs", "Oracle", "PostgreSQL", "MongoDB"],
-    "others": ["AWS", "GCP", "PyTorch", "Spark", "Airflow", "Unix", "Git", "Jira"]
+    "languages": [
+      "Python",
+      "JavaScript",
+      "Java",
+      "SQL",
+      "C",
+      "C++",
+      "HTML",
+      "CSS",
+      "TypeScript"
+    ],
+    "frameworks": [
+      "React",
+      "Flask",
+      "NodeJs",
+      "Oracle",
+      "PostgreSQL",
+      "MongoDB"
+    ],
+    "others": [
+      "AWS",
+      "GCP",
+      "PyTorch",
+      "Spark",
+      "Airflow",
+      "Unix",
+      "Git",
+      "Jira"
+    ]
   }
 }
