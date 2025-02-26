@@ -5,7 +5,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://hanlunwang.tech">Hanlun Wang</a></b>
+                <b><a target="_blank" href="https://hanlunwang.me">Hanlun Wang</a></b>
         </samp>
 </h3>
 
@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
- <a href="https://hanlunwang.tech" target="blank">
+ <a href="https://hanlunwang.me" target="blank">
   <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="hanlunwang.me" />
  </a>
  <a href="https://www.linkedin.com/in/hanlunwang" target="_blank">
