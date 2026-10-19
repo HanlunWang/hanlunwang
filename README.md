@@ -16,4 +16,4 @@ Developer in Toronto. This profile is kept as a changelog.
 
 ---
 
-<sub>[hanlunwang.me](https://hanlunwang.me) · [LinkedIn](https://www.linkedin.com/in/hanlunwang) · [X](https://x.com/woshibenben_)</sub>
+<sub>[hanlunwang.me](https://hanlunwang.me) · [X](https://x.com/woshibenben_)</sub>
